@@ -1,6 +1,12 @@
 .title{
   font-family: 'Roboto', sans-serif;
-  color:#C21926;
+  color:#ffffff;
   font-size:40px;
   font-style: italic;
+}
+.title.-second{
+  padding-top:50px;
+  padding-bottom:20px;
+  color:#FFF;
+  text-align:center;
 }
